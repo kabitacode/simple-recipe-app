@@ -1,4 +1,4 @@
-# myapp
+# Flutter Responsive - Simple Recipe App
 
 A new Flutter project.
 
